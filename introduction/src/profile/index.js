@@ -24,15 +24,15 @@ const navigation = [
 
 const cards = [
   {
-    name: "ANZ (On Role Parsimony)",
-    title: "Senior Engineer",
+    name: "ANZ Bank",
+    title: "Engineering Chapter Lead",
     href: "#",
     companyImage: anz,
     desc: "",
     durations: "December 2020 - Present",
   },
   {
-    name: "Razor Risk (On Role Parsimony)",
+    name: "Razor Risk",
     title: "Senior Software Engineer",
     href: "#",
     companyImage: razor,
